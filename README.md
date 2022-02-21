@@ -27,8 +27,8 @@ $ npm run start:prod
 
 ## API END POINTS
 
-Register: http://localhost:8080/auth/signup (POST)
-Login: http://localhost:8080/auth/signin (POST)
+ - Register -  http://localhost:8080/auth/signup (POST)
+ - Login -  http://localhost:8080/auth/signin (POST)
 
 Create Category: http://localhost:8080/categories (POST with authorization token from login api)
 Get All Category: http://localhost:8080/categories (GET with authorization token from login api)
