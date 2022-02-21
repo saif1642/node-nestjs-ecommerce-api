@@ -30,15 +30,15 @@ $ npm run start:prod
  - Register -  http://localhost:8080/auth/signup (POST)
  - Login -  http://localhost:8080/auth/signin (POST)
 
-Create Category: http://localhost:8080/categories (POST with authorization token from login api)
-Get All Category: http://localhost:8080/categories (GET with authorization token from login api)
+ - Create Category - http://localhost:8080/categories (POST with authorization token from login api)
+ - Get All Category - http://localhost:8080/categories (GET with authorization token from login api)
 
 
-Create Product: http://localhost:8080/products (POST with authorization token from login api)
-Get All Product: http://localhost:8080/products (GET with authorization token from login api)
+ - Create Product - http://localhost:8080/products (POST with authorization token from login api)
+ - Get All Product - http://localhost:8080/products (GET with authorization token from login api)
 
-Create Order: http://localhost:8080/orders (POST with authorization token from login api)
-Get All Order of a specific User: http://localhost:8080/orders/:userId (GET with authorization token from login api)
+ - Create Order - http://localhost:8080/orders (POST with authorization token from login api)
+ - Get All Order of a specific User - http://localhost:8080/orders/:userId (GET with authorization token from login api)
 
 
 
