@@ -4,7 +4,8 @@
 Minimalistic Ecommerce apis built with nodejs ,typescript, postgresql
 
 ## Pre Installation
-Change Database credentials at src/config/typeorm.config.ts
+ - Create new database
+ - Change Database credentials at src/config/typeorm.config.ts
 
 ## Installation
 
